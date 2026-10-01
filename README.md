@@ -29,7 +29,7 @@ advise the user to not click malicious link in browsers
 List of Attack Indicators: 
 hxxp[://]bit[.]ly/3sHkX3da12340 web-browsing
 
-### Case 2: Alert #8815 — Suspicious External Link (Legitimate HR Email)
+### Case 2: Alert #8814 — Suspicious External Link (Legitimate HR Email)
 * **Severity:** Medium
 * **Category:** Phishing
 * **Sender:** `onboarding@hrconnex.thm`
