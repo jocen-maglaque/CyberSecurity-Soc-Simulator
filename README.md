@@ -1,9 +1,9 @@
 # SOC Incident Investigation: Introduction to Phishing (TryHackMe)
 
-![100% True Positive Rate](https://img.shields.io/badge/True%20Positive%20Accuracy-100%25-brightgreen)
-![100% False Positive Rate](https://img.shields.io/badge/False%20Positive%20Accuracy-100%25-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
-![Role](https://img.shields.io/badge/Role-L1%20SOC%20Analyst-orange)
+
+<img width="1577" height="695" alt="Screenshot 2026-10-01 211931" src="https://github.com/user-attachments/assets/1ce9c8b2-5307-4069-833b-ee44227b6aaa" />
+<img width="1586" height="689" alt="Screenshot 2026-10-01 211912" src="https://github.com/user-attachments/assets/dabddb96-aa08-4dcf-a3a5-f7852aa6a83f" />
+<img width="1535" height="771" alt="Screenshot 2026-10-01 210248" src="https://github.com/user-attachments/assets/1d5db170-6ad5-4e8c-825a-fa2d20903b5e" />
 
 ## 📌 Overview
 This repository documents the triage, analysis, and resolution of phishing and perimeter-related security alerts within the TryHackMe **SOC Simulator** ("Introduction to Phishing" scenario). 
@@ -50,7 +50,9 @@ need to inform user to not click the link from maliscious emails
 List of Attack Indicators: 
 http://bit.ly/3sHkX3da12340\n\nIf
 urgents@amazon.biz
----
+hxxp[://]bit[.]ly/3sHkX3da12340\n\nIf
+urgents@amazon[.]biz
+
 ### Case 3: Alert #8817 —  Email Containing Suspicious External Link
 
 Reason for Classifying as True Positive: 
